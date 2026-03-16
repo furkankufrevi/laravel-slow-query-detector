@@ -1,7 +1,7 @@
 {
     "name": "furkankufrevi/laravel-slow-query-detector",
     "description": "Detect slow queries and N+1 problems in your Laravel app. Logs warnings with query details, execution time, and origin.",
-    "keywords": ["laravel", "slow-query", "n+1", "performance", "debugging", "query-detector"],
+    "keywords": ["laravel", "slow-query", "n-plus-one", "performance", "debugging", "query-detector"],
     "license": "MIT",
     "type": "library",
     "require": {
